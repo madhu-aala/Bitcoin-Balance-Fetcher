@@ -14,7 +14,7 @@ This is a web application that allows you to easily fetch the balance of a Bitco
 
 **Dependencies:**
 
-- This application relies on the Blockchain.info API to retrieve balance information. No additional libraries are required on the client-side.
+- This application relies on the **Blockchain.info** API to retrieve balance information. No additional libraries are required on the client-side.
 
 **Additional Notes:**
 
